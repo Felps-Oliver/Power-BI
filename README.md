@@ -1,2 +1,2 @@
 # Power-BI
-Repositório com diversos arquivos PBI
+Repositório com diversos arquivos PBI, referente a cursos realizados.
